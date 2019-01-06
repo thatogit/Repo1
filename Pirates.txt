@@ -2,3 +2,5 @@ Squad:
 Shonga
 Lorch
 Mulenga
+Jele
+Teko
