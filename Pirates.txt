@@ -4,4 +4,10 @@ Lorch
 Mulenga
 Jele
 
+Mahachi
+Ndoro
+
+Dones my changes in branch1
+
 Done!
+
